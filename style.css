@@ -1,0 +1,11 @@
+table{
+    color:rgba(0, 0, 255, .5);
+    padding: 5px;
+    background-color: transparent;
+}
+[colspan="2"] span {
+    color:#e09915;
+}
+.privet {
+    color:#ff0000;
+}
